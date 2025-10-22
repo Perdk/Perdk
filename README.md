@@ -36,7 +36,7 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="400" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perdk&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
